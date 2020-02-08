@@ -1,2 +1,3 @@
 Hello, git!
 новая строка!
+new string
